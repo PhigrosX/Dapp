@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello CUIT!</h1>
+        <h1>Hello, this is the Dapp task page!</h1>
+        <h2>redesigned by MJQ, 212, Blockchain Engineering.</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
